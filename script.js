@@ -15,7 +15,7 @@ console.log(arr);
 console.log("\nPart 3 Transforming Data\n");
 let arr_of_objs = []; //empty array, gonna be our array of objects
 
-/*create necessary amount of objects, we start at row i becasue the very first 
+/*create necessary amount of objects, we start at row 1 becasue the very first 
  row in our 2D array is used for the properites of the object */
 
 //iterate through our 2d Array rows
